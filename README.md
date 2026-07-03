@@ -2,10 +2,6 @@
 
 I build systems that combine AI agents, computer vision and retrieval to automate repetitive work.
 
-<p align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hkr136&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400">
-</p>
-
 Currently exploring local AI, multi-agent systems and document intelligence.
 
 ---
