@@ -1,105 +1,89 @@
-# hkr136
+<h1 align="center">hkr136</h1>
+<h3 align="center">AI Product Engineer</h3>
+<p align="center"><em>Building AI-first products, automation systems and content pipelines.</em></p>
 
-AI Product Engineer
-
-Building AI-first products, automation systems and content pipelines.
+<p align="center">
+  <a href="https://github.com/hkr136">
+    <img src="https://img.shields.io/github/followers/hkr136?label=followers&style=flat-square">
+  </a>
+</p>
 
 ---
 
 ## What I Do
 
-- AI Automation
-- AI Agents
-- FastAPI
-- Telegram Systems
-- AI Content Pipelines
-- Computer Vision
-- RAG
-- Backend Development
+<table>
+  <tr>
+    <td>AI Automation</td>
+    <td>AI Agents</td>
+    <td>FastAPI</td>
+  </tr>
+  <tr>
+    <td>Telegram Systems</td>
+    <td>AI Content Pipelines</td>
+    <td>Computer Vision</td>
+  </tr>
+  <tr>
+    <td>RAG</td>
+    <td>Backend Development</td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-Backend:
-- Python
-- FastAPI
-- PostgreSQL
-- Redis
-- Docker
-- Git
-- Linux
-- SSH
-
-AI:
-- OpenAI
-- Claude
-- Gemini
-- OpenRouter
-- ComfyUI
-- Qwen VL
-- Llama
-- Vision Models
-
-Other:
-- Telegram Bot API
-- REST API
-- OCR
-- Workflow Automation
+<table>
+  <tr><th>Backend</th><th>AI</th><th>Other</th></tr>
+  <tr>
+    <td>Python<br>FastAPI<br>PostgreSQL<br>Redis<br>Docker<br>Git<br>Linux<br>SSH</td>
+    <td>OpenAI<br>Claude<br>Gemini<br>OpenRouter<br>ComfyUI<br>Qwen VL<br>Llama<br>Vision Models</td>
+    <td>Telegram Bot API<br>REST API<br>OCR<br>Workflow Automation</td>
+  </tr>
+</table>
 
 ---
 
 ## Featured Projects
 
-1. AI Content Platform
-   - FastAPI
-   - Redis
-   - GPU Workers
-   - ComfyUI
-   - Telegram
-   - Vision Models
+### AI Content Platform
+End-to-end AI generation system
+`FastAPI` `Redis` `GPU Workers` `ComfyUI` `Telegram` `Vision Models`
 
-2. Restaurant Feedback Platform
-   - Telegram Bot
-   - QR Codes
-   - Google Sheets
-   - Admin Workflow
+### Restaurant Feedback Platform
+QR-based Telegram platform for a federal restaurant chain
+`Telegram Bot` `QR Codes` `Google Sheets` `Admin Workflow`
 
-3. AI Automation Toolkit
-
----
-
-## Currently Learning
-
-- Multi-Agent Systems
-- Machine Learning
-- Kaggle
-- Fine-Tuning
-- LLM Evaluation
-
----
-
-## Interests
-
-- AI Products
-- Automation
-- Generative AI
-- Computer Vision
-- Business AI
+### AI Automation Toolkit
+Business workflow automation using LLMs, APIs and AI agents
 
 ---
 
 ## Selected Experience
 
-AI Content Platform
-End-to-end AI generation system with FastAPI, Redis, GPU workers and ComfyUI.
+**AI Content Platform** — End-to-end AI generation system with FastAPI, Redis, GPU workers and ComfyUI.
 
-Restaurant Feedback Platform
-QR-based Telegram platform for a federal restaurant chain.
+**Restaurant Feedback Platform** — QR-based Telegram platform for a federal restaurant chain.
 
-AI Automation
-Business workflow automation using LLMs, APIs and AI agents.
+**AI Automation** — Business workflow automation using LLMs, APIs and AI agents.
 
 ---
 
-*AI Product Engineer — production-ready AI systems, automation platforms and AI-first products.*
+## Currently Learning
+
+`Multi-Agent Systems` `Machine Learning` `Kaggle` `Fine-Tuning` `LLM Evaluation`
+
+## Interests
+
+`AI Products` `Automation` `Generative AI` `Computer Vision` `Business AI`
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hkr136&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400">
+</p>
+
+<p align="center">
+  <em>AI Product Engineer — production-ready AI systems, automation platforms and AI-first products.</em>
+</p>
