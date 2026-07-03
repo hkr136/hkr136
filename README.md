@@ -2,11 +2,13 @@
 
 AI Product Engineer
 
+I build systems that combine AI agents, computer vision and retrieval to automate repetitive work.
+
 <p align="center">
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hkr136&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400">
 </p>
 
-I build systems that combine AI agents, computer vision and retrieval to automate repetitive work.
+Currently exploring local AI, multi-agent systems and document intelligence.
 
 ---
 
@@ -32,11 +34,15 @@ Telegram
  Storage
 ```
 
-Built for long-running automation.
+Python · FastAPI · Redis · PostgreSQL · Docker · Telegram · ComfyUI
+
+---
 
 ### AI Automation Toolkit
 
-Workflow automation using LLMs, APIs and AI agents.
+Reusable automation building blocks for document processing, AI orchestration and business workflows.
+
+Python · FastAPI · LLMs · Docker
 
 ---
 
@@ -52,4 +58,5 @@ Workflow automation using LLMs, APIs and AI agents.
 
 ## Contact
 
-hkr136@gmail.com · [github.com/hkr136](https://github.com/hkr136)
+hkr136@gmail.com
+[github.com/hkr136](https://github.com/hkr136)
