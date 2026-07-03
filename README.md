@@ -1,82 +1,155 @@
-<h1 align="center">hkr136</h1>
-<h3 align="center">AI Product Engineer</h3>
-<p align="center"><em>Building AI-first products, automation systems and content pipelines.</em></p>
+# hkr136
 
-<p align="center">
-  <a href="https://github.com/hkr136">
-    <img src="https://img.shields.io/github/followers/hkr136?label=followers&style=flat-square">
-  </a>
-</p>
+AI Product Engineer
+
+Building production-ready AI systems that automate real business workflows using LLMs, Computer Vision and modern AI coding agents.
+
+I design and build AI-first products focused on business automation, content generation and intelligent workflows. I enjoy turning AI capabilities into production-ready systems.
 
 ---
 
 ## What I Do
 
-<table>
-  <tr>
-    <td>AI Automation</td>
-    <td>AI Agents</td>
-    <td>FastAPI</td>
-  </tr>
-  <tr>
-    <td>Telegram Systems</td>
-    <td>AI Content Pipelines</td>
-    <td>Computer Vision</td>
-  </tr>
-  <tr>
-    <td>RAG</td>
-    <td>Backend Development</td>
-    <td></td>
-  </tr>
-</table>
+- AI Automation
+- AI Agents
+- AI Product Development
+- Computer Vision
+- Document AI
+- AI Content Pipelines
+- Backend Systems
+- Workflow Automation
 
 ---
 
 ## Tech Stack
 
-<table>
-  <tr><th>Backend</th><th>AI</th><th>Other</th></tr>
-  <tr>
-    <td>Python<br>FastAPI<br>PostgreSQL<br>Redis<br>Docker<br>Git<br>Linux<br>SSH</td>
-    <td>OpenAI<br>Claude<br>Gemini<br>OpenRouter<br>ComfyUI<br>Qwen VL<br>Llama<br>Vision Models</td>
-    <td>Telegram Bot API<br>REST API<br>OCR<br>Workflow Automation</td>
-  </tr>
-</table>
+### AI Engineering
+
+- AI Coding Agents (Claude Code, Codex)
+- Local LLM Deployment (Ollama, llama.cpp)
+- AI Agent Orchestration
+- Multi-Agent Workflows
+- Prompt Engineering
+- Prompt Chains
+- Structured Outputs
+- Tool Calling
+- Function Calling
+- RAG Systems
+- Vector Databases
+- AI Evaluation
+- Computer Vision Pipelines
+- OCR Pipelines
+- AI Content Generation
+- ComfyUI Workflow Engineering
+- GPU Inference Pipelines
+- Multimodal AI
+
+### Backend
+
+- Python
+- FastAPI
+- PostgreSQL
+- Redis
+- Docker
+
+### Infrastructure
+
+- Linux
+- SSH
+- Git
+- REST APIs
 
 ---
 
 ## Featured Projects
 
 ### AI Content Platform
-End-to-end AI generation system
-`FastAPI` `Redis` `GPU Workers` `ComfyUI` `Telegram` `Vision Models`
+
+End-to-end AI generation system with FastAPI, Redis, GPU workers and ComfyUI.
+
+```
+Telegram
+   ↓
+FastAPI
+   ↓
+Redis Queue
+   ↓
+GPU Workers
+   ↓
+ComfyUI
+   ↓
+User
+```
+
+**Features:** AI image generation, prompt management, batch processing, queue system, Telegram integration
+
+**Stack:** FastAPI, Redis, ComfyUI, GPU Workers, Telegram Bot API, PostgreSQL
+
+**Roadmap:**
+- [ ] Multi-model support
+- [ ] Advanced prompt templates
+- [ ] Analytics dashboard
 
 ### Restaurant Feedback Platform
-QR-based Telegram platform for a federal restaurant chain
-`Telegram Bot` `QR Codes` `Google Sheets` `Admin Workflow`
+
+QR-based Telegram platform for a federal restaurant chain.
+
+```
+QR Code
+   ↓
+Telegram Bot
+   ↓
+Google Sheets API
+   ↓
+Admin Dashboard
+```
+
+**Features:** QR-based feedback collection, multi-restaurant management, Google Sheets integration, admin notifications
+
+**Stack:** Python, Telegram Bot API, Google Sheets API, Docker
+
+**Roadmap:**
+- [ ] Analytics dashboard
+- [ ] Multi-language support
+- [ ] Automated reporting
 
 ### AI Automation Toolkit
-Business workflow automation using LLMs, APIs and AI agents
+
+Business workflow automation using LLMs, APIs and AI agents.
+
+**Features:** Document processing, workflow orchestration, multi-agent coordination, API integration
+
+**Stack:** Python, FastAPI, LangChain, OpenAI, Docker
 
 ---
 
-## Selected Experience
+## Engineering Principles
 
-**AI Content Platform** — End-to-end AI generation system with FastAPI, Redis, GPU workers and ComfyUI.
-
-**Restaurant Feedback Platform** — QR-based Telegram platform for a federal restaurant chain.
-
-**AI Automation** — Business workflow automation using LLMs, APIs and AI agents.
+- AI-first Development
+- Production over Prototypes
+- Human-in-the-loop
+- Automation First
+- Simple Architecture
+- Scalable Systems
 
 ---
 
-## Currently Learning
+## Current Focus
 
-`Multi-Agent Systems` `Machine Learning` `Kaggle` `Fine-Tuning` `LLM Evaluation`
+- Multi-Agent Systems
+- Local AI
+- Document AI
+- Computer Vision
+- Kaggle
+- AI Evaluation
 
-## Interests
+---
 
-`AI Products` `Automation` `Generative AI` `Computer Vision` `Business AI`
+## Connect
+
+- Email: [Add your email]
+- LinkedIn: [Add your LinkedIn]
+- GitHub: [github.com/hkr136](https://github.com/hkr136)
 
 ---
 
@@ -85,5 +158,5 @@ Business workflow automation using LLMs, APIs and AI agents
 </p>
 
 <p align="center">
-  <em>AI Product Engineer — production-ready AI systems, automation platforms and AI-first products.</em>
+  <em>AI Product Engineer — production-ready AI systems, automation platforms and intelligent business workflows.</em>
 </p>
