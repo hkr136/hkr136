@@ -1,6 +1,4 @@
-# hkr136
-
-AI Product Engineer
+# AI Product Engineer
 
 Building production-ready AI systems that automate real business workflows using LLMs, Computer Vision and modern AI coding agents.
 
