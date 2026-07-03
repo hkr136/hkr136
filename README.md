@@ -14,7 +14,7 @@ I build systems that combine AI agents, computer vision and retrieval to automat
 
 ### AI Content Platform
 
-An end-to-end AI generation system. Sends images from Telegram through a queue of GPU workers running ComfyUI.
+An end-to-end AI generation system. Receives requests via Telegram, queues inference jobs through Redis, runs ComfyUI on GPU workers with automatic model switching and prompt templating.
 
 ```
 Telegram
@@ -33,29 +33,6 @@ Telegram
 ```
 
 Built for long-running automation.
-
-[Repository](https://github.com/hkr136/scdownloader)
-
-### Restaurant Feedback Platform
-
-A QR-based feedback system for a federal restaurant chain. Customers scan a QR code, submit feedback via Telegram, data lands in Google Sheets.
-
-```
- QR Code
-    │
-    ▼
- Telegram Bot
-    │
-    ▼
- Sheets API
-    │
-    ▼
- Dashboard
-```
-
-Designed around simple, reliable components.
-
-[Repository](https://github.com/hkr136/scdownloader)
 
 ### AI Automation Toolkit
 
