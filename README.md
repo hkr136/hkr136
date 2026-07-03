@@ -153,7 +153,7 @@ Business workflow automation using LLMs, APIs and AI agents.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hkr136&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hkr136&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400">
 </p>
 
 <p align="center">
