@@ -147,8 +147,7 @@ Business workflow automation using LLMs, APIs and AI agents.
 
 ## Connect
 
-- Email: [Add your email]
-- LinkedIn: [Add your LinkedIn]
+- Email: hkr136@gmail.com
 - GitHub: [github.com/hkr136](https://github.com/hkr136)
 
 ---
