@@ -1,42 +1,43 @@
 # hkr136
 
-**Audio + AI Developer** 
+**AI Product Engineer**
 
-Building audio plugins and automation systems.
+Building AI-first products, automation systems and content pipelines.
 
 ---
 
 ## What I Build
 
-- Audio Plugins (VST3/AU)
-- Telegram Bots
-- Automation Systems
-- Python Tools
-- C++ Applications
+- AI Automation
+- Telegram Systems
+- Backend Development
+- Computer Vision
+- RAG
 
 ---
 
 ## Tech Stack
 
-**Audio:** C++, JUCE, VST3, AU  
-**Backend:** Python, FastAPI, Telegram API  
-**DevOps:** Docker, CMake, Linux  
+**Backend:** Python, FastAPI, Docker, Git, Linux
+
+**AI:** OpenAI, Claude, Gemini, ComfyUI, LLM
+
+**Other:** Telegram Bot API, REST API
 
 ---
 
 ## Projects
 
-**clipz2k** — VST3/AU клиппер/лимитер с 6 режимами и 8x oversampling
+1. SoundCloud Telegram Bot — Telegram бот для скачивания треков с SoundCloud
 
-**scdownloader** — Telegram бот для скачивания треков с SoundCloud
+2. CLIPZ2K — VST3/AU клиппер/лимитер
 
 ---
 
 ## Currently Learning
 
 - Multi-Agent Systems
-- Audio ML
-- Real-time Processing
+- Machine Learning
 
 ---
 
