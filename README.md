@@ -10,21 +10,6 @@ Currently exploring local AI, multi-agent systems and document intelligence.
 
 An end-to-end AI generation system. Receives requests via Telegram, queues inference jobs through Redis, runs ComfyUI on GPU workers with automatic model switching and prompt templating.
 
-```
-Telegram
-    │
-    ▼
- FastAPI
-    │
-    ▼
- Queue
-    │
-    ▼
- Inference
-    │
-    ▼
- Storage
-```
 
 Python · FastAPI · Redis · PostgreSQL · Docker · Telegram · ComfyUI
 
